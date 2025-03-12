@@ -26,5 +26,7 @@
     "github.copilot.chat.search.semanticTextResults": true,
     "[git-commit]": {
         "github.copilot.nextEditSuggestions.enabled": true
+    },
+    "zenMode.fullScreen": true,
+    "github.copilot.chat.testGeneration.instructions": []
     }
-}
