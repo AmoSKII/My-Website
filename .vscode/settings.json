@@ -1,0 +1,30 @@
+{
+    "github.copilot.advanced": {
+
+    },
+    "explorer.excludeGitIgnore": true,
+    "git.allowForcePush": true,
+    "git.autoRepositoryDetection": "subFolders",
+    "git.blame.editorDecoration.enabled": true,
+    "git.autoStash": true,
+    "git.branchRandomName.enable": true,
+    "git.enableSmartCommit": true,
+    "git.inputValidation": true,
+    "git.mergeEditor": true,
+    "git.rememberPostCommitCommand": true,
+    "git.scanRepositories": [
+        "https://github.com/AmoSKII/My-Website.git"
+    ],
+    "git.terminalGitEditor": true,
+    "git.useCommitInputAsStashMessage": true,
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.chat.editor.temporalContext.enabled": true,
+    "github.copilot.chat.edits.temporalContext.enabled": true,
+    "github.copilot.chat.languageContext.typescript.enabled": true,
+    "github.copilot.chat.newWorkspaceCreation.enabled": true,
+    "github.copilot.chat.search.semanticTextResults": true,
+    "[git-commit]": {
+        "github.copilot.nextEditSuggestions.enabled": true
+    }
+}
